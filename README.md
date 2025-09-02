@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at Virginia Tech with a passion for building tools that improve everyday workflows — whether it's automating shift scheduling or integrating productivity into Spotify.
 
-🔧 I like working on:
+### 🔧 I like working on:
 - 🧠 Chrome extensions that boost focus (see [**Pomofy**](https://github.com/adissass/pomofy))
 - 📺 Media tracking apps (see [**What's on Tonight?**](https://github.com/adissass/whats-on-tonight))
 - 🗓️ Schedulers and automation tools
@@ -10,15 +10,12 @@ I'm a Computer Science student at Virginia Tech with a passion for building tool
 
 🧩 I'm currently building a [**Persona 5 Fusion Calculator**](https://github.com/adissass/VelvetFusion) powered by Java and working on a React/Next.js frontend.
 
-🌱 Always learning — currently diving into:
+### 🌱 Always learning — currently diving into:
 - 🔄 Java Spring Boot
 - ⚛️ React + Next.js
 - 🤖 AI integrations for practical web tools
 
-📫 Reach me: adissass03@gmail.com
-🌐 [LinkedIn](https://linkedin.com/in/adissass)
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adissass&layout=compact&theme=tokyonight)
 
