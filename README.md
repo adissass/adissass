@@ -3,20 +3,20 @@
 I'm a Computer Science student at Virginia Tech with a passion for building tools that improve everyday workflows — whether it's automating shift scheduling or integrating productivity into Spotify.
 
 🔧 I like working on:
-- 🧠 Chrome extensions that boost focus (see **Pomofy**)
-- 🗓️ Schedulers and automation tools (see **Schedule Scraper**)
-- 📺 Media tracking apps (see **What's on Tonight?**)
+- 🧠 Chrome extensions that boost focus (see [**Pomofy**](https://github.com/wamzuu/pomofy))
+- 📺 Media tracking apps (see [**What's on Tonight?**](https://github.com/wamzuu/whats-on-tonight))
+- 🗓️ Schedulers and automation tools
 - 💻 Full-stack experiments with React, Tailwind, and Spring Boot
 
-🧩 I'm currently building a **Persona 5 Fusion Calculator** powered by Java and working on a React/Next.js frontend.
+🧩 I'm currently building a [**Persona 5 Fusion Calculator**](https://github.com/wamzuu/VelvetFusion) powered by Java and working on a React/Next.js frontend.
 
 🌱 Always learning — currently diving into:
 - 🔄 Java Spring Boot
 - ⚛️ React + Next.js
 - 🤖 AI integrations for practical web tools
 
-📫 Reach me: amanuel.ad95@gmail.com  
-🌐 [LinkedIn](https://linkedin.com/in/adissass) | [Resume](#)
+📫 Reach me: adissass03@gmail.com
+🌐 [LinkedIn](https://linkedin.com/in/adissass)
 
 ## 📊 GitHub Stats
 
