@@ -19,7 +19,7 @@ I'm a Computer Science student at Virginia Tech with a passion for building tool
 🌐 [LinkedIn](https://linkedin.com/in/adissass) | [Resume](#) | [Dev Log](#)
 
 <!-- GitHub Stats (optional) -->
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wamzuu&show_icons=true&theme=tokyonight) -->
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=wamzuu&show_icons=true&theme=tokyonight)
 
 <!--
 **wamzuu/wamzuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
