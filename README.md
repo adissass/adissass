@@ -1,21 +1,18 @@
-## Hi there 👋
+# Hey, I’m Amanuel ✌🏾
 
-I'm a Computer Science student at Virginia Tech with a passion for building tools that improve everyday workflows — whether it's automating shift scheduling or integrating productivity into Spotify.
+CS student @ Virginia Tech focused on building tools that make daily workflows simpler.
 
-### 🔧 I like working on:
-- 🧠 Chrome extensions that boost focus (see [**Pomofy**](https://github.com/adissass/pomofy))
-- 📺 Media tracking apps (see [**What's on Tonight?**](https://github.com/adissass/whats-on-tonight))
-- 🗓️ Schedulers and automation tools
-- 💻 Full-stack experiments with React, Tailwind, and Spring Boot
+### 🔨 Building
+- [**VelvetFusion**](https://github.com/adissass/VelvetFusion) – Java backend, React/Next.js frontend
+- [**Pomofy**](https://github.com/adissass/pomofy) – a Chrome extension that embeds a Pomodoro timer into Spotify
+- [**What's on Tonight?**](https://github.com/adissass/whats-on-tonight) – a media tracker that shows what’s dropping today
 
-🧩 I'm currently building a [**Persona 5 Fusion Calculator**](https://github.com/adissass/VelvetFusion) powered by Java and working on a React/Next.js frontend.
+### 🧠 Learning
+- Java Spring Boot
+- React + Next.js
+- AI integrations for practical web tools
 
-### 🌱 Always learning — currently diving into:
-- 🔄 Java Spring Boot
-- ⚛️ React + Next.js
-- 🤖 AI integrations for practical web tools
-
-### 📊 GitHub Stats
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adissass&layout=compact&theme=tokyonight)
 
