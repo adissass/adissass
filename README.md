@@ -3,12 +3,12 @@
 I'm a Computer Science student at Virginia Tech with a passion for building tools that improve everyday workflows — whether it's automating shift scheduling or integrating productivity into Spotify.
 
 🔧 I like working on:
-- 🧠 Chrome extensions that boost focus (see [**Pomofy**](https://github.com/wamzuu/pomofy))
-- 📺 Media tracking apps (see [**What's on Tonight?**](https://github.com/wamzuu/whats-on-tonight))
+- 🧠 Chrome extensions that boost focus (see [**Pomofy**](https://github.com/adissass/pomofy))
+- 📺 Media tracking apps (see [**What's on Tonight?**](https://github.com/adissass/whats-on-tonight))
 - 🗓️ Schedulers and automation tools
 - 💻 Full-stack experiments with React, Tailwind, and Spring Boot
 
-🧩 I'm currently building a [**Persona 5 Fusion Calculator**](https://github.com/wamzuu/VelvetFusion) powered by Java and working on a React/Next.js frontend.
+🧩 I'm currently building a [**Persona 5 Fusion Calculator**](https://github.com/adissass/VelvetFusion) powered by Java and working on a React/Next.js frontend.
 
 🌱 Always learning — currently diving into:
 - 🔄 Java Spring Boot
@@ -20,7 +20,7 @@ I'm a Computer Science student at Virginia Tech with a passion for building tool
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wamzuu&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adissass&layout=compact&theme=tokyonight)
 
 <!--
 **wamzuu/wamzuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
