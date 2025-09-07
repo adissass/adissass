@@ -3,9 +3,9 @@
 CS student @ Virginia Tech focused on building tools that make daily workflows simpler.
 
 ### 🔨 Building
-- [**VelvetFusion**](https://github.com/adissass/VelvetFusion) – Java backend, React/Next.js frontend
-- [**Pomofy**](https://github.com/adissass/pomofy) – a Chrome extension that embeds a Pomodoro timer into Spotify
-- [**What's on Tonight?**](https://github.com/adissass/whats-on-tonight) – a media tracker that shows what’s dropping today
+- [**VelvetFusion**](https://github.com/adissass/VelvetFusion) – Persona 5 inspired fusion calculator
+- [**Pomofy**](https://github.com/adissass/pomofy) – A Chrome extension that embeds a Pomodoro timer into Spotify
+- [**What's on Tonight?**](https://github.com/adissass/whats-on-tonight) – A media tracker that shows what’s dropping today
 
 ### 🧠 Learning
 - Java Spring Boot
