@@ -1,16 +1,16 @@
 # Hey, I’m Amanuel ✌🏾
 
-CS student @ Virginia Tech focused on building tools that make daily workflows simpler.
+**CS @ Virginia Tech** | Building tools to automate the boring stuff and visualize the complex.
 
 ### 🔨 Building
-- [**VelvetFusion**](https://github.com/adissass/VelvetFusion) – Persona 5 inspired fusion calculator
-- [**Pomofy**](https://github.com/adissass/pomofy) – A Chrome extension that embeds a Pomodoro timer into Spotify
-- [**What's on Tonight?**](https://github.com/adissass/whats-on-tonight) – A media tracker that shows what’s dropping today
+* **Persona Fusion Engine** – Enhancing a P5-inspired fusion calculator with complex logic and high-performance scalability.
+* **Pomofy** – A productivity-focused Chrome extension syncing Pomodoro cycles with Spotify.
 
-### 🧠 Learning
-- Java Spring Boot
-- React + Next.js
-- AI integrations for practical web tools
+### 📚 Spring 2026 Focus
+* Data Structures & Algorithms
+* Computer Organization II
+* Combinatorics & Graph Theory
+* Statistics & Physics
 
 ---
 
