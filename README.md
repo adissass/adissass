@@ -1,16 +1,12 @@
 # Hey, I’m Amanuel ✌🏾
 
-**CS @ Virginia Tech** | Building tools to automate the boring stuff and visualize the complex.
+**CS @ Virginia Tech** 
+Building tools to automate the boring stuff and visualize the complex.
 
 ### 🔨 Building
 * **Persona Fusion Engine** – Enhancing a P5-inspired fusion calculator with complex logic and high-performance scalability.
 * **Pomofy** – A productivity-focused Chrome extension syncing Pomodoro cycles with Spotify.
 
-### 📚 Spring 2026 Focus
-* Data Structures & Algorithms
-* Computer Organization II
-* Combinatorics & Graph Theory
-* Statistics & Physics
 <!--
 ---
 
